@@ -9,7 +9,7 @@ public class StringDemo3 {
 
 		// method is case sensitive.
 		boolean status = name.contains(name1);
-		System.out.println("Status is " + status);
+		System.out.println("Status is stats " + status);
 
 	}
 
