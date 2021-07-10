@@ -8,7 +8,7 @@ public class StringDemo1 {
 		String name="Welcome To Selenium Webdriver";
 		String name1="Welcome To Webdriver";
 		
-		boolean status=name.startsWith("Welcome");
+		boolean status=name.startsWith("Welcome to the");
 		System.out.println("Old Status is "+status);
 		
 		boolean status1=name1.endsWith("Webdriver");
