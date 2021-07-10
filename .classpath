@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="DesignPageFactory"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/MAIL JAR/activation.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/MAIL JAR/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/XL JAR/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/My Stuff/Downloads Soft/Main Used Lib/jar_files/extentreports-4.0.9.jar" sourcepath="C:/Users/deepa/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
