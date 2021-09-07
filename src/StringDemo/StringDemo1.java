@@ -12,7 +12,7 @@ public class StringDemo1 {
 		System.out.println("Old Status is "+status);
 		
 		boolean status1=name1.endsWith("Webdriver");
-		System.out.println("Old Status is "+status1);
+		System.out.println("Old Status is that "+status1);
 
 	}
 
