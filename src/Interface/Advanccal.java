@@ -15,7 +15,7 @@ public class Advanccal implements Cal {
 	
 	public void mul()
 	{
-		System.out.println("i m in multiplication");
+		System.out.println("i m in multiplication method");
 	}
 	
 	public void div()
